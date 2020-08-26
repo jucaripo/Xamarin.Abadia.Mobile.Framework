@@ -45,8 +45,6 @@
     <Compile Include="Notificaciones\INotificacion.cs" />
     <Compile Include="Models\NotificacionModel.cs" />
     <Compile Include="Notificaciones\Api.cs" />
-    <Compile Include="LICENSE" />
-    <Compile Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
