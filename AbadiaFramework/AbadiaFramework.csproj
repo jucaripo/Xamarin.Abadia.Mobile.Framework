@@ -45,6 +45,9 @@
     <Compile Include="Notificaciones\INotificacion.cs" />
     <Compile Include="Models\NotificacionModel.cs" />
     <Compile Include="Notificaciones\Api.cs" />
+    <Compile Include="Models\Agenda\PerfilModel.cs" />
+    <Compile Include="Models\Agenda\RedSocialModel.cs" />
+    <Compile Include="Models\Agenda\TelefonoModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -52,6 +55,7 @@
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Notificaciones\" />
+    <Folder Include="Models\Agenda\" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Newtonsoft.Json">
